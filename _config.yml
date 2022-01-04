@@ -1,14 +1,12 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Abhigyan's Blog
+title: Abhigyan's Personal Blog
+description: Personal blog of Abhigyan Borah.
 tags:
   - blog
   - template
-  - jekyll
-  - theme
-  - netlify
+  - assamese
+  - assam
 show_hero: true
 menu:
   - title: Home
@@ -19,23 +17,15 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
-# See: https://disqus.com/
-disqus_username: disqus_username
-# Contact Form Setting
-# See: https://formspree.io/
-formspree_form_id: formspree_form_id
+email: imabhigyn@gmail.com
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
-
+github_username: borahabhigyan
+facebook_username: o7gyan
+twitter_username: o7gyan
+instagram_username: o7gyan
 
 # Posts Settings
 show_time_bar: true
@@ -103,6 +93,3 @@ exclude: [
   'gulpfile.js',
   'README.md'
 ]
-
-# Theme
-version: v3.1.1
