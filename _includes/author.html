@@ -5,7 +5,7 @@
       {% if author.photo %}
         <img class="img-rounded" src="{{ author.photo }}" alt="{{ author.display_name }}">
       {% else %}
-        <img class="img-rounded" src="/assets/img/user.jpg" alt="{{ author.display_name }}">
+        <img class="img-rounded" src="/blog/assets/img/user.jpg" alt="{{ author.display_name }}">
       {% endif %}
       <p class="def">{{ site.translations.text.author | default: "Author" }}</p>
       <h3 class="name">
@@ -67,21 +67,5 @@
       {% assign author_urls = author_urls | append: '"https://www.linkedin.com/in/' | append: author.linkedin_username | append: '",' %}
   {% endif %}
 
-  <script type="application/ld+json">
-  {
-      "@context": "http://schema.org",
-      "@type": "Person",
-      "name": "{{ author.display_name }}",
-      {% if author.photo %}
-      "image": "{{ author.photo }}",
-      {% else %}
-      "image": {{ "/assets/img/user.jpg" | prepend: site.baseurl | prepend: site.url }},
-      {% endif %}
-      "jobTitle": "{{ author.position }}",
-      "url": "{{ author.url | prepend: site.baseurl | prepend: site.url }}",
-      "sameAs": [
-        {{ author_urls | split: "," | join: "," }}
-      ]
-  }
-  </script>
+
 {% endif %}
