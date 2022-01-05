@@ -1,12 +1,15 @@
 ---
-date: 2020-07-31 12:00:00
+date: 2020-07-31T17:00:00.000Z
 layout: post
-title: Loneliness: নিঃসংগতা, একাকিত্ব
+title: Loneliness- নিঃসংগতা, একাকিত্ব
 subtitle: 
-description: 
-image: https://raw.githubusercontent.com/borahabhigyan/blog/main/images/zero.jpg
-optimized_image: https://raw.githubusercontent.com/borahabhigyan/blog/main/images/zero.jpg
-category: 
+description: >-
+  
+image: >-
+  https://raw.githubusercontent.com/borahabhigyan/blog/main/images/lo.png
+optimized_image: >-
+  https://raw.githubusercontent.com/borahabhigyan/blog/main/images/lo.png
+category: blog
 tags:
   - read
 author: abhigyan
