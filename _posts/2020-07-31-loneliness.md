@@ -15,7 +15,7 @@ tags:
 author: abhigyan
 paginate: true
 ---
-**Tom: "People don't realize this, but loneliness is underrated."** </br>
+**Tom: "People don't realize this, but loneliness is underrated."** <br/>
 _(500 Days of Summer, চিনেমা, ২০০৯)_
 
 **২০১৬** চনত **Centre for the Study of Developing Societies** আৰু **Konrad Adenauer Stiftung** এ চলোৱা এটা **যুটীয়া সমীক্ষা**ৰ ফলাফল ২০১৭ চনত প্ৰকাশ কৰা হৈছিল। **এপ্ৰিল, ২০১৭**ত ফলাফল প্ৰকাশ কৰা এই সমীক্ষাত **১৫ ৰ পৰা ৩৪ বছৰৰ ভাৰতীয়** কিছুমানক অধ্যয়ন কৰা হৈছিল। ইয়াৰে **১২% লোকে হতাশা আৰু ৮% লোকে নিঃসংগতা অনুভৱ কৰিছিল** [(উৎস)](https://indianexpress.com/article/express-sunday-eye/you-are-not-the-only-one-5154976/lite/)।**২০০৪** ত কৰা আন এক সমীক্ষামতে **৪৯.১ লাখ** অকলে বসবাস কৰা ভাৰতীয় লোকে নিঃসংগতা অনুভৱ কৰিছিল [(উৎস)](https://indianexpress.com/article/express-sunday-eye/you-are-not-the-only-one-5154976/lite/)। পৃথিৱীৰ আৰম্ভণিৰে পৰা এতিয়ালৈকে সময়ছোৱাৰ বৰ্তমান অৱস্থাতে আমি আটাইতকৈ বেছি 'কানেক্টেড' কিন্তু তথাপিও নিঃসংগতাৰ হাৰ ঊৰ্ধগামী। কিয় সেয়া এক ভাবিবলগীয়া কথা। তেনে আন এক ভাবিবলগীয়া কথা আছিল চন্দ্ৰপৃষ্ঠত মানুহে পদাৰ্পণ কৰাটো। ১৯৬৯ চনৰ নাছাৰ এপ'ল'-১১ অভিযানতে মানুহে প্ৰথমবাৰৰ বাবে চন্দ্ৰপৃষ্ঠত অৱতৰণ কৰে। 
