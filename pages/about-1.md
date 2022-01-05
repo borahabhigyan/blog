@@ -7,7 +7,7 @@ permalink: /about/
 description: 
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Abhigyan" width="200">
+<img class="img-rounded" src="/blog/assets/img/uploads/profile.png" alt="Abhigyan" width="200">
 
 # About
 

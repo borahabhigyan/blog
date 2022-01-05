@@ -35,7 +35,7 @@
     {% include links.html %}
 
     <p>
-      <span>Jekflix</span> was made with <svg class="love"><use xlink:href="#icon-heart"></use></svg> by <a href="https://rossener.com" target="_blank" class="creator">Thiago Rossener</a>
+      <span>made with <svg class="love"><use xlink:href="#icon-heart"></use></svg> by <a href="https://twitter.com/o7gyan" target="_blank" class="creator">Abhigyan</a>
     </p>
 </footer>
 
@@ -59,27 +59,9 @@
     {% assign social_urls = social_urls | append: '"https://www.linkedin.com/in/' | append: site.linkedin_username | append: '",' %}
 {% endif %}
 
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "Organization",
-  "name": "{{ site.name }}",
-  "description": "{{ site.description }}",
-  "url": "{{ site.url }}{{site.baseurl}}/",
-  "logo": {
-      "@type": "ImageObject",
-      "url": "{{ site.url }}{{site.baseurl}}/assets/img/icons/mediumtile.png",
-      "width": "600",
-      "height": "315"
-  },
-  "sameAs": [
-    {{ social_urls | split: "," | join: "," }}
-  ]
-}
-</script>
+ 
 
-<!-- Include the script that allows Netlify CMS login -->
-<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
 
 <!-- Include the website scripts -->
 <script src="{{ '/assets/js/scripts.min.js' | prepend: site.baseurl }}"></script>
