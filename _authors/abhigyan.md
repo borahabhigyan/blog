@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: /blog/assets/img/uploads/profile.png
 name: abhigyan
 display_name: Abhigyan
 position: Chief Editor

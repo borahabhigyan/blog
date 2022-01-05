@@ -1,14 +1,14 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = "jekflix"
-  spec.version       = "3.1.1"
-  spec.authors       = ["Thiago Rossener"]
-  spec.email         = ["thiago@rossener.com"]
+  spec.name          = ""
+  spec.version       = ""
+  spec.authors       = ["Abhigyan"]
+  spec.email         = ["sbus+osm@simplelogin.co"]
 
-  spec.summary       = "A Jekyll theme inspired by Netflix."
-  spec.homepage      = "https://jekflix.rossener.com/"
-  spec.license       = "MIT"
+  spec.summary       = "Abhigyan's Personal Blog"
+  spec.homepage      = "https://borahabhigyan.github.io"
+  spec.license       = ""
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(_(includes|layouts|sass)/|assets/|(LICENSE|README)((\.(txt|md|markdown)|$)))}i) }
 
