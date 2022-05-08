@@ -9,4 +9,4 @@ permalink: /about/
 
 # About
 
-Just a kid like anyone else.
+Just a kid like everyone else.
