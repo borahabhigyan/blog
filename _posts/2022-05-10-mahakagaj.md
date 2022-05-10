@@ -1,14 +1,16 @@
 ---
-date: 2022-05-10T06:30:00.000Z 
-layout: post 
-title: মহাকাগজ 
-subtitle: 
-description: >- 
-image: >- https://raw.githubusercontent.com/borahabhigyan/blog/main/images/valley-fold-2-min.jpeg 
-category: blog 
-tags:  
-    - read 
-author: abhigyan 
+date: 2022-05-10T06:30:00.000Z
+layout: post
+title: মহাকাগজ
+subtitle:
+description: >-
+
+image: >- 
+  https://raw.githubusercontent.com/borahabhigyan/blog/main/images/valley-fold-2-min.jpeg
+category: blog
+tags:
+  - read
+author: abhigyan
 paginate: true 
 ---
 ওপৰৰ ফটোখন [https://origami.me](https://origami.me) ৱেবচাইটটোৰ পৰা লোৱা হৈছে। অ'ৰিগেমি কি আমি সকলোৱে জানো আৰু কাগজৰ উৰাজাহাজ উৰুৱাই এবাৰলৈ হ'লেও আমি সকলোৱে "পাইলট্" হৈছোঁ। উৰাজাহাজ আকাশত উৰে আৰু আকাশৰ ওপৰত থাকে মহাকাশ যি আছে বিশ্বব্ৰহ্মাণ্ড বা মহাজগতত।
