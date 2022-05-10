@@ -5,14 +5,12 @@ title: মহাকাগজ
 subtitle: 
 description: >- 
 image: >- https://raw.githubusercontent.com/borahabhigyan/blog/main/images/valley-fold-2-min.jpeg 
-optimized_image: >- https://raw.githubusercontent.com/borahabhigyan/blog/main/images/valley-fold-2-min.jpeg 
 category: blog 
 tags:  
     - read 
 author: abhigyan 
 paginate: true 
 ---
-
 ওপৰৰ ফটোখন [https://origami.me](https://origami.me) ৱেবচাইটটোৰ পৰা লোৱা হৈছে। অ'ৰিগেমি কি আমি সকলোৱে জানো আৰু কাগজৰ উৰাজাহাজ উৰুৱাই এবাৰলৈ হ'লেও আমি সকলোৱে "পাইলট্" হৈছোঁ। উৰাজাহাজ আকাশত উৰে আৰু আকাশৰ ওপৰত থাকে মহাকাশ যি আছে বিশ্বব্ৰহ্মাণ্ড বা মহাজগতত।
 মহাজগতখন অনবৰতে প্ৰসাৰিত হৈ আছে আৰু সম্পূৰ্ণ মহাজগতখন পৰ্যবেক্ষণ কৰিব পৰাও সম্ভৱ হৈ উঠা নাই। তথাপিও মহাকাশৰ যি অংশ পৰ্যবেক্ষণ কৰিব পৰা হৈছে তাৰ ব্যাসাৰ্ধ হৈছে ৯৩ নিখৰ্ব (বিলিয়ন) আলোকবৰ্ষ। অৰ্থাৎ  ২৯,৯৭,৯২,৪৫৮ (~ ৩×১০^৮) মিটাৰ প্ৰতি চেকেণ্ড বেগেৰে গতি কৰা পোহৰে ৯৩ নিখৰ্ব (বিলিয়ন) বছৰত যিমান দূৰত্ব অতিক্ৰম কৰিব। চন্দ্ৰ আৰু পৃথিৱীৰ মাজৰ দূৰত্ব হৈছে ৩,৮৪,৪০০ কিলোমিটাৰ বা ৩.৯৬x১০^-৮ আলোকবৰ্ষ।
 
