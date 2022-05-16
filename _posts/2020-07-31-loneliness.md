@@ -7,8 +7,6 @@ description: >-
   
 image: >-
   https://raw.githubusercontent.com/borahabhigyan/blog/main/images/lo.png
-optimized_image: >-
-  https://raw.githubusercontent.com/borahabhigyan/blog/main/images/lo.png
 category: blog
 tags:
   - read
